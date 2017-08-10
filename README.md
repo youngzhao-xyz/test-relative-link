@@ -1,4 +1,4 @@
 # test-relative-link
 
 
-## [test](CLI)
+* [test](CLI)
